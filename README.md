@@ -1,14 +1,14 @@
 # clojure-osrs
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure example of loading classnodes
 
 ## Usage
 
-FIXME
+`load-jar "path-to-jar"`
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 TimD
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
